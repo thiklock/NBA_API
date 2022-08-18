@@ -16,7 +16,13 @@ def get_players():
     # count amount of players
     flat_people_list = [i for x in players_ for i in x]
     print(len(flat_people_list))
-    df = pd.DataFrame(players_)
+    df = pd.DataFrame (df)
+    df.to_csv("./output.csv")
+    print(df)
+    return players_
+
+# def save_players(df):
+    df = pd.DataFrame (df)
     df.to_csv("./output.csv")
     print(df)
     return

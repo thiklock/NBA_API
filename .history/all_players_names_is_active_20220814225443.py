@@ -10,17 +10,17 @@ def get_nba_stat():
     print(code)
     return code
 
+get_nba_stat()
+
 # Get all players.
 def get_players():
     players_ = players.get_players()
     # count amount of players
     flat_people_list = [i for x in players_ for i in x]
     print(len(flat_people_list))
-    df = pd.DataFrame(players_)
-    df.to_csv("./output.csv")
-    print(df)
-    return
 
-get_nba_stat()
+# df = pd.DataFrame (players_)
 
-save_players(get_players())
+# df.to_csv("./output.csv")
+
+# print(df)
