@@ -1,0 +1,15 @@
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2022-07-19_1
+Already downloaded: /Users/thiago.klock/Library/Caches/Homebrew/downloads/c95acf8107b31ec83053f411f74e85b2626e1a0c051467aff6b98acf996883d7--ca-certificates-2022-07-19_1.bottle_manifest.json
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:9e0df163364a5ae07f3ee2cf39083cd74bcb38eeb5250b706e1c02f878d8d632
+Already downloaded: /Users/thiago.klock/Library/Caches/Homebrew/downloads/35d5190bc4a6a8eaf390498d1fa15dbf9dc06e7f01c8ca3f4e7fa1d2615790d9--ca-certificates--2022-07-19_1.all.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/1.1/manifests/1.1.1q
+Already downloaded: /Users/thiago.klock/Library/Caches/Homebrew/downloads/6271b05548776a2b3b124d10bd5580078ddd5ae46f9c34d37ca7cf2c26c2d8f3--openssl@1.1-1.1.1q.bottle_manifest.json
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/1.1/blobs/sha256:4e7b6cb2252c554a8e25ecae960f2fcd9a7fa742aa3fc99e6b533bb4e5d32483
+Already downloaded: /Users/thiago.klock/Library/Caches/Homebrew/downloads/c17acdef55f539eb467904591b6752f039a8743290f52173dcfe519925d90373--openssl@1.1--1.1.1q.arm64_monterey.bottle.tar.gz
+==> Downloading https://ghcr.io/v2/homebrew/core/pyenv/manifests/2.3.3
+Already downloaded: /Users/thiago.klock/Library/Caches/Homebrew/downloads/b310213aff40a677d2d16d44cbcd00c5bbfe64c47fffd465e41f80241896ef5d--pyenv-2.3.3.bottle_manifest.json
+==> Downloading https://ghcr.io/v2/homebrew/core/pyenv/blobs/sha256:eaaae7b2d7e05c45825a674365ebcaf25264648138321df004b3b3772feeeed0
+Already downloaded: /Users/thiago.klock/Library/Caches/Homebrew/downloads/4ff5217758793ad608a45ff076e3e4d85f94145bef3aff47dcbc213083a7fb14--pyenv--2.3.3.arm64_monterey.bottle.tar.gz
+==> Installing dependencies for pyenv: ca-certificates and openssl@1.1
+==> Installing pyenv dependency: ca-certificates
+==> Pouring ca-certificates--2022-07-19_1.all.bottle.tar.gz
