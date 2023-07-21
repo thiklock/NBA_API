@@ -7,6 +7,8 @@ from nba_api.stats.library.parameters import SeasonType
 import time
 import logging
 
+import pandas as pd
+
 logging.basicConfig(filename='games.log', level=logging.INFO,datefmt='%Y-%m-%d %H:%M:%S', format='%(asctime)s %(levelname)-8s %(message)s' )
 logging.info('Started')
 
@@ -40,7 +42,7 @@ def main():
         game_id = game['GAME_ID']
         game_matchup = game['MATCHUP']
         time.sleep(1)
-        # df.to_csv("./output_play_by_play.csv")
+        df.to_csv("./output_play_by_play.csv")
         logging.info(i)
         logging.info(f'Searching through {len(games)} game(s) for the game_id of {game_id} where {game_matchup}')
 
