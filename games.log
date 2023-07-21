@@ -63,3 +63,68 @@
 2022-08-18 10:32:12 INFO     Searching through 82 game(s) for the game_id of 0022101228 where DET @ PHI
 2022-08-18 10:32:13 INFO     1610612766
 2022-08-18 10:32:13 INFO     Searching through 82 game(s) for the game_id of 0022101217 where CHA vs. WAS
+2023-07-17 22:18:06 INFO     Started
+2023-07-17 22:18:06 WARNING  another warning
+2023-07-17 22:18:06 INFO     30
+2023-07-17 22:18:06 INFO     [1610612737, 1610612738, 1610612739, 1610612740, 1610612741, 1610612742, 1610612743, 1610612744, 1610612745, 1610612746, 1610612747, 1610612748, 1610612749, 1610612750, 1610612751, 1610612752, 1610612753, 1610612754, 1610612755, 1610612756, 1610612757, 1610612758, 1610612759, 1610612760, 1610612761, 1610612762, 1610612763, 1610612764, 1610612765, 1610612766]
+2023-07-17 22:18:06 INFO     Started
+2023-07-17 22:18:08 INFO     1610612737
+2023-07-17 22:18:08 INFO     Searching through 82 game(s) for the game_id of 0022201216 where ATL @ BOS
+2023-07-17 22:18:09 INFO     1610612738
+2023-07-17 22:18:09 INFO     Searching through 82 game(s) for the game_id of 0022201216 where BOS vs. ATL
+2023-07-17 22:18:11 INFO     1610612739
+2023-07-17 22:18:11 INFO     Searching through 82 game(s) for the game_id of 0022201218 where CLE vs. CHA
+2023-07-17 22:18:13 INFO     1610612740
+2023-07-17 22:18:13 INFO     Searching through 82 game(s) for the game_id of 0022201225 where NOP @ MIN
+2023-07-17 22:18:15 INFO     1610612741
+2023-07-17 22:18:15 INFO     Searching through 82 game(s) for the game_id of 0022201223 where CHI vs. DET
+2023-07-17 22:18:16 INFO     1610612742
+2023-07-17 22:18:16 INFO     Searching through 82 game(s) for the game_id of 0022201224 where DAL vs. SAS
+2023-07-17 22:18:18 INFO     1610612743
+2023-07-17 22:18:18 INFO     Searching through 82 game(s) for the game_id of 0022201227 where DEN vs. SAC
+2023-07-17 22:18:20 INFO     1610612744
+2023-07-17 22:18:20 INFO     Searching through 82 game(s) for the game_id of 0022201230 where GSW @ POR
+2023-07-17 22:18:21 INFO     1610612745
+2023-07-17 22:18:21 INFO     Searching through 82 game(s) for the game_id of 0022201222 where HOU @ WAS
+2023-07-17 22:18:23 INFO     1610612746
+2023-07-17 22:18:23 INFO     Searching through 82 game(s) for the game_id of 0022201229 where LAC @ PHX
+2023-07-17 22:18:24 INFO     1610612747
+2023-07-17 22:18:24 INFO     Searching through 82 game(s) for the game_id of 0022201228 where LAL vs. UTA
+2023-07-17 22:18:26 INFO     1610612748
+2023-07-17 22:18:26 INFO     Searching through 82 game(s) for the game_id of 0022201219 where MIA vs. ORL
+2023-07-17 22:18:28 INFO     1610612749
+2023-07-17 22:18:28 INFO     Searching through 82 game(s) for the game_id of 0022201221 where MIL @ TOR
+2023-07-17 22:18:30 INFO     1610612750
+2023-07-17 22:18:30 INFO     Searching through 82 game(s) for the game_id of 0022201225 where MIN vs. NOP
+2023-07-17 22:18:31 INFO     1610612751
+2023-07-17 22:18:31 INFO     Searching through 82 game(s) for the game_id of 0022201217 where BKN vs. PHI
+2023-07-17 22:18:33 INFO     1610612752
+2023-07-17 22:18:33 INFO     Searching through 82 game(s) for the game_id of 0022201220 where NYK vs. IND
+2023-07-17 22:18:35 INFO     1610612753
+2023-07-17 22:18:35 INFO     Searching through 82 game(s) for the game_id of 0022201219 where ORL @ MIA
+2023-07-17 22:18:36 INFO     1610612754
+2023-07-17 22:18:36 INFO     Searching through 82 game(s) for the game_id of 0022201220 where IND @ NYK
+2023-07-17 22:18:38 INFO     1610612755
+2023-07-17 22:18:38 INFO     Searching through 82 game(s) for the game_id of 0022201217 where PHI @ BKN
+2023-07-17 22:18:40 INFO     1610612756
+2023-07-17 22:18:40 INFO     Searching through 82 game(s) for the game_id of 0022201229 where PHX vs. LAC
+2023-07-17 22:18:41 INFO     1610612757
+2023-07-17 22:18:41 INFO     Searching through 82 game(s) for the game_id of 0022201230 where POR vs. GSW
+2023-07-17 22:18:43 INFO     1610612758
+2023-07-17 22:18:43 INFO     Searching through 82 game(s) for the game_id of 0022201227 where SAC @ DEN
+2023-07-17 22:18:45 INFO     1610612759
+2023-07-17 22:18:45 INFO     Searching through 82 game(s) for the game_id of 0022201224 where SAS @ DAL
+2023-07-17 22:18:46 INFO     1610612760
+2023-07-17 22:18:46 INFO     Searching through 82 game(s) for the game_id of 0022201226 where OKC vs. MEM
+2023-07-17 22:18:48 INFO     1610612761
+2023-07-17 22:18:48 INFO     Searching through 82 game(s) for the game_id of 0022201221 where TOR vs. MIL
+2023-07-17 22:18:50 INFO     1610612762
+2023-07-17 22:18:50 INFO     Searching through 82 game(s) for the game_id of 0022201228 where UTA @ LAL
+2023-07-17 22:18:51 INFO     1610612763
+2023-07-17 22:18:51 INFO     Searching through 82 game(s) for the game_id of 0022201226 where MEM @ OKC
+2023-07-17 22:18:53 INFO     1610612764
+2023-07-17 22:18:53 INFO     Searching through 82 game(s) for the game_id of 0022201222 where WAS vs. HOU
+2023-07-17 22:18:55 INFO     1610612765
+2023-07-17 22:18:55 INFO     Searching through 82 game(s) for the game_id of 0022201223 where DET @ CHI
+2023-07-17 22:18:56 INFO     1610612766
+2023-07-17 22:18:56 INFO     Searching through 82 game(s) for the game_id of 0022201218 where CHA @ CLE
